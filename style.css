@@ -11,7 +11,7 @@ body, html {
 	top: 49%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	background: #fff;
+	background: rgb(68, 60, 60);
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.2);
 	border-radius: 14px;
 	padding-bottom: 1px;
@@ -66,7 +66,7 @@ input[type=button] {
 	width: 60px;
 	height: 60px;
 	float: left;
-	padding: 0;
+	padding: 0	;
 	margin: 5px;
 	box-sizing: border-box;
 	background: #ecedef;
